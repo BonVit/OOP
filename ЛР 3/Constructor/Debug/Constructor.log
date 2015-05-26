@@ -1,0 +1,14 @@
+﻿Build started 3/17/2015 8:10:12 AM.
+     1>Project "E:\ХНУ\Системне програмування\2 курс\2 семестр\ООП\ЛР 3\Constructor\Constructor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Different\Visual Studio 2012 Professional x86\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         E:\Different\Visual Studio 2012 Professional x86\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ХНУ\Системне програмування\2 курс\2 семестр\ООП\ЛР 3\Constructor\Debug\Constructor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ХНУ\Системне програмування\2 курс\2 семестр\ООП\ЛР 3\Constructor\Debug\Constructor.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ХНУ\Системне програмування\2 курс\2 семестр\ООП\ЛР 3\Constructor\Debug\Constructor.lib" /MACHINE:X86 Debug\Employee.obj
+         Debug\Source.obj
+         Constructor.vcxproj -> E:\ХНУ\Системне програмування\2 курс\2 семестр\ООП\ЛР 3\Constructor\Debug\Constructor.exe
+     1>Done Building Project "E:\ХНУ\Системне програмування\2 курс\2 семестр\ООП\ЛР 3\Constructor\Constructor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.95
